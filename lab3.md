@@ -37,7 +37,16 @@
 <img width="1271" alt="image" src="https://user-images.githubusercontent.com/130838129/232235286-62ae2d96-90fd-48d2-9b56-eaa115f68723.png">
 
 ## Zad 10
-<img width="287" alt="image" src="https://user-images.githubusercontent.com/130838129/232236089-3dd2db65-c25a-454f-8662-8cc025688469.png">
-## zad 11
+* wykonane
+## zad 11,12 i 13
 <img width="154" alt="image" src="https://user-images.githubusercontent.com/130838129/232237280-91ae1508-44d8-4a10-a46e-08b5dd68d7a8.png">
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/130838129/232237500-daacf299-7a87-4a05-ba6f-4c3532f7cd0b.png">
+
+## zad 14
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/130838129/232237703-d5446be6-cc12-45de-a6fc-596dc7447088.png">
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/130838129/232238058-ec6bac6e-7b76-48fe-a528-27ad6eee8586.png">
+<img width="367" alt="image" src="https://user-images.githubusercontent.com/130838129/232238082-a6a57d2f-9d61-4dad-8ec6-5d1461c9a3f8.png">
+
+
+
 
