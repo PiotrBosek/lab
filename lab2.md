@@ -2,10 +2,11 @@
 ## Zad 1
 * Skorzystanie z komendy ip config w kosoli systemowej i sprawdzenie konfiguracji sieciowej komputera(Korzystanie z systemu windows)
  <img width="495" alt="image" src="https://user-images.githubusercontent.com/130838129/232223350-17509e8a-1307-41c8-9fae-548051aae023.png">
-* W windowsie można też to sprawdzić w inny sposób poprzez zastosowanie takiej kolejności wykonywania działania Ustawienia -> Sieć i Internet -> Zaawansowane ustawienia sieci -> Właściwości sprzętu i połączenia. W ten sposób widzimy wszystkie połączenia sieciowe.
+* Windows posiada też inny sposób by to sprawdzić poprzez zastosowanie takiej kolejności wykonywania działania Ustawienia -> Sieć i Internet -> Zaawansowane ustawienia sieci -> Właściwości sprzętu i połączenia. W ten sposób widzimy wszystkie połączenia sieciowe.
  <img width="488" alt="image" src="https://user-images.githubusercontent.com/130838129/232223519-50445a6e-e59e-4b5c-b7a2-102f4e3e4110.png">
 
 * W systemie linux mamy możliwość użycia tylko komendy ip config w konsoli systemowej cmd.
+
 ## Wyjaśnienie pojęć
 * Adres fizyczny – adres pamięci pojawiający się w postaci liczby binarnej na szynie adresowej procesora w momencie odwoływania się do pamięci operacyjnej lub przestrzeni adresowej urządzeń wejścia-wyjścia.
 * DHCP – protokół komunikacyjny umożliwiający hostom uzyskanie od serwera danych konfiguracyjnych, np. adresu IP hosta, adresu IP bramy sieciowej, adresu serwera DNS, maski podsieci. Protokół DHCP jest zdefiniowany w RFC 2131 ↓ i jest następcą BOOTP.
@@ -13,6 +14,7 @@
 * Maska podsieci, maska adresu – liczba służąca do wyodrębnienia w adresie IP części będącej adresem podsieci i części, która jest adresem hosta w tej podsieci. Pola adresu IP, dla których w masce znajduje się bit równy 1, należą do adresu podsieci, a pozostałe bity do adresu urządzenia w tej podsieci.
 * Brama domyślna inaczej Brama sieciowa – maszyna podłączona do sieci komputerowej, za pośrednictwem której komputery z sieci lokalnej komunikują się z komputerami w innych sieciach.
 * Domain Name System – hierarchiczny rozproszony system nazw sieciowych, który odpowiada na zapytania o nazwy domen. Dzięki DNS nazwa mnemoniczna jest tłumaczona na odpowiadający jej adres IP.
+
 ## zad 3
 * Komenda netstat wyświetla w postaci symbolicznej zawartość różnego rodzaju struktur danych sieciowych dotyczących aktywnych połączeń.
  <img width="535" alt="image" src="https://user-images.githubusercontent.com/130838129/232224074-9d16bbfb-f5f5-4304-a72f-c8c237d6b14b.png">
