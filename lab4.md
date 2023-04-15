@@ -19,4 +19,5 @@
 
 ## Zad 5
 * Protokół aplikacji HTTP jest bezstanowy, co oznacza, że każde żądanie klienta musi zawierać tyle informacji, ile serwer potrzebuje do wykonania żądanej operacji.
-![image](https://user-images.githubusercontent.com/130838129/232242433-af223f83-32c0-4a13-a388-4d7fd2667d6e.png)
+
+![jfhvp5bn](https://user-images.githubusercontent.com/130838129/232242534-28e5e707-daef-494c-957a-0bd27bcfd02e.png)
