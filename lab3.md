@@ -46,6 +46,7 @@
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/130838129/232238058-ec6bac6e-7b76-48fe-a528-27ad6eee8586.png">
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/130838129/232238082-a6a57d2f-9d61-4dad-8ec6-5d1461c9a3f8.png">
 
-
+## Zad 15
+* Problem z wykonaniem, poprzez traktowanie pobranych plików przez komputer jako zagrożeń i potencjalnych wirusów
 
 
