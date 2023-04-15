@@ -31,5 +31,6 @@
  
  ### Część 3
  * Wykonanie czynności związanych z własną stroną internetową od polecenia 12 do 24
+ * Na screenie poniżej możemy zauważyć zę spakowany plik formatu tar ma inną barwę niż normalne katalogi i pliki 
  <img width="564" alt="image" src="https://user-images.githubusercontent.com/130838129/232219459-22a91d19-5398-40f5-bb56-0ec8a4f6c9cc.png">
-* Możemy zauważyć zę spakowany plik formatu tar ma inną barwę niż normalne katalogi i pliki 
+
