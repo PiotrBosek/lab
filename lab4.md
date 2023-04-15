@@ -21,3 +21,7 @@
 * Protokół aplikacji HTTP jest bezstanowy, co oznacza, że każde żądanie klienta musi zawierać tyle informacji, ile serwer potrzebuje do wykonania żądanej operacji.
 
 ![jfhvp5bn](https://user-images.githubusercontent.com/130838129/232242534-28e5e707-daef-494c-957a-0bd27bcfd02e.png)
+
+## Zad 6
+* Curl umożliwia wysyłanie zapytań HTTP, w tym pobieranie z serwerów stron i plików, a także wysyłanie treści formularzy
+* 
