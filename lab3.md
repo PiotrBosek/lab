@@ -37,4 +37,7 @@
 <img width="1271" alt="image" src="https://user-images.githubusercontent.com/130838129/232235286-62ae2d96-90fd-48d2-9b56-eaa115f68723.png">
 
 ## Zad 10
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/130838129/232236089-3dd2db65-c25a-454f-8662-8cc025688469.png">
+## zad 11
+<img width="154" alt="image" src="https://user-images.githubusercontent.com/130838129/232237280-91ae1508-44d8-4a10-a46e-08b5dd68d7a8.png">
 
