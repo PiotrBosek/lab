@@ -1,9 +1,9 @@
 #Praca Zdalna
 
 ## SSH
-Secure Shell – standard protokołów komunikacyjnych używanych w sieciach komputerowych TCP/IP, w architekturze klient-serwer
+* Secure Shell – standard protokołów komunikacyjnych używanych w sieciach komputerowych TCP/IP, w architekturze klient-serwer
 
-RSA-jeden z pierwszych i obecnie najpopularniejszych asymetrycznych algorytmów kryptograficznych z kluczem publicznym
+* RSA-jeden z pierwszych i obecnie najpopularniejszych asymetrycznych algorytmów kryptograficznych z kluczem publicznym
 
 ## Zadania
 ### Część 1
