@@ -39,4 +39,4 @@
 * <img width="427" alt="image" src="https://user-images.githubusercontent.com/130838129/232224703-94dc94b9-73a5-4f17-bfc4-081344951705.png">
 * TTL-Czas życia pakietu, Time to Live – okres ważności pakietu danych lub innych danych, stosowany w sieciach komputerowych. Wbrew nazwie TTL nie zawsze określa czas. W przypadku czasu życia pakietów danych w sieci komputerowej jest to zwykle liczba przeskoków, które może on wykonać na swojej trasie.
 * Time - czas potrzebny na wysłanie i powrotu pakietów
-* Z powyższych screenów widzimy, że najdłuższy czas dotarcia był do amazonu, a najkrótszy do 
+* Z powyższych screenów widzimy, że najdłuższy czas dotarcia był do amazonu, a najkrótszy do głównej strony agh.
