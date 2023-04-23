@@ -31,6 +31,7 @@
 <img width="1134" alt="image" src="https://user-images.githubusercontent.com/130838129/232243958-578c02ed-c391-4c8b-a0a6-32c4897d0b10.png">
 <img width="972" alt="image" src="https://user-images.githubusercontent.com/130838129/232244084-9d4a2b40-6fb2-4e77-b74a-3793e50c22b1.png">
 * Została nam wypisana zawartość strony oraz elementy z których jest utworzona
+
 ## Zad 8
 * Ciasteczka  to niewielkie pliki, zapisywane i przechowywane na Twoim komputerze lokalnym lub innym urządzeniu, podczas gdy odwiedzasz różne strony WWW w sieci Internet.
 Plik „cookie” zazwyczaj zawiera:
@@ -38,17 +39,22 @@ podstawowe informacje na temat nazwy strony WWW, z której pochodzi,
 „długość życia” ciasteczka — czyli jaki ustawiony jest czas jego istnienia na Twoim komputerze,
 przypadkowo wygenerowany unikalny numer służący do identyfikacji przeglądarki, z jakiej następuje połączenie ze stroną WWW.
 * Pliki cookie często są używane, żeby sperzonalizować ofertę dla danej osoby, lub informować w reklamach o rzeczach które mogą interesować daną osobę
+
 ## Zad 9
 * 3 z 5 przeglądarek pokazało jak najwięcej możliwości zakupu określonego hasła, jedna informacje historyczne dotyczące użytego wyrażenia, a ostatnia pomieszanie tych dwóch działań który były wypisane powyżej
+
 ## Zad 10
 * Serwery proxy są narzędziem, które pozwalają na przekierowanie ruchu sieciowego przez pośrednika. W zależności od konfiguracji, serwer proxy może pełnić różne funkcje, takie jak filtrowanie ruchu sieciowego, ukrywanie adresu IP użytkownika, czy też zapewnienie szyfrowania połączenia.
+
 ## Zad 11
 * HTTP (Hypertext Transfer Protocol) i HTTPS (Hypertext Transfer Protocol Secure) to dwa protokoły komunikacyjne wykorzystywane w przesyłaniu danych między przeglądarką internetową a serwerem.
 * Protokół HTTP przesyła dane w formie tekstu, a nie są one szyfrowane. Oznacza to, że każda osoba, która ma dostęp do sieci, może przechwycić i odczytać dane przesyłane za pośrednictwem HTTP.
 * Z kolei HTTPS wykorzystuje dodatkowe zabezpieczenia, takie jak protokół SSL/TLS , aby szyfrować dane przesyłane między przeglądarką a serwerem. Dzięki temu atakujący nie są w stanie przechwycić i odczytać danych.
 * Serwery HTTP nasłuchują na porcie 80, podczas gdy serwery HTTPS na porcie 443. Dzięki temu serwery mogą rozróżniać, który protokół jest wykorzystywany do przesyłania danych.
+
 ## Zad 12
 * Wykonane
+
 ## Zad 13
 * Zmiany są widoczne na stronie
  <img width="1272" alt="image" src="https://user-images.githubusercontent.com/130838129/232246064-537a80fe-75d3-4568-9bba-3669bb0c1a4d.png">
