@@ -1,4 +1,4 @@
-#Praca Zdalna
+# Praca Zdalna
 
 ## SSH
 * Secure Shell – standard protokołów komunikacyjnych używanych w sieciach komputerowych TCP/IP, w architekturze klient-serwer
