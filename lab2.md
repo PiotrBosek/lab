@@ -2,7 +2,7 @@
 ## Zad 1
 * Skorzystanie z komendy ip config w kosoli systemowej i sprawdzenie konfiguracji sieciowej komputera(Korzystanie z systemu windows)
  <img width="495" alt="image" src="https://user-images.githubusercontent.com/130838129/232223350-17509e8a-1307-41c8-9fae-548051aae023.png">
-* Windows posiada też inny sposób by to sprawdzić poprzez zastosowanie takiej kolejności wykonywania działania Ustawienia -> Sieć i Internet -> Zaawansowane ustawienia sieci -> Właściwości sprzętu i połączenia. W ten sposób widzimy wszystkie połączenia sieciowe.
+*  Windows posiada też inny sposób by to sprawdzić poprzez zastosowanie takiej kolejności wykonywania działania Ustawienia -> Sieć i Internet -> Zaawansowane ustawienia sieci -> Właściwości sprzętu i połączenia. W ten sposób widzimy wszystkie połączenia sieciowe.
  <img width="488" alt="image" src="https://user-images.githubusercontent.com/130838129/232223519-50445a6e-e59e-4b5c-b7a2-102f4e3e4110.png">
 
 * W systemie linux mamy możliwość użycia tylko komendy ip config w konsoli systemowej cmd.
