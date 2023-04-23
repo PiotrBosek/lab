@@ -18,6 +18,7 @@
 * Domain Name System – hierarchiczny rozproszony system nazw sieciowych, który odpowiada na zapytania o nazwy domen. Dzięki DNS nazwa mnemoniczna jest tłumaczona na odpowiadający jej adres IP.
 
 ## zad 3
+
 * Komenda netstat wyświetla w postaci symbolicznej zawartość różnego rodzaju struktur danych sieciowych dotyczących aktywnych połączeń.
  <img width="535" alt="image" src="https://user-images.githubusercontent.com/130838129/232224074-9d16bbfb-f5f5-4304-a72f-c8c237d6b14b.png">
 * Komenda netstat -ptona umożliwia nam zapoznanie się z odpowiednimi operacjami:
