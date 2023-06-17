@@ -39,5 +39,22 @@
 
 ![image](https://github.com/PiotrBosek/lab/assets/130838129/87375f3c-f952-4f0d-b39b-06e27cfc38a4)
 
-*
+* Wyczyszczenie bazy danych z wpisów, 
+
+<img width="1088" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/bdd7ce5f-c973-4ae9-a27a-b0c8109d0f5e">
+
+<img width="1091" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/84f66f77-cf14-4113-8c95-e806ad88f7e4">
+
+<img width="1084" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/7a1d3a64-696d-461a-9e5f-2681913dd2c8">
+
+* Własna baza danych(najbogatsi ludzie świata):
+
+  <img width="346" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/606a460c-b848-4529-b3c4-cc540ff96003">
+
+
+
+
+
+
+
 
