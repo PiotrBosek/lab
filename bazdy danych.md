@@ -35,3 +35,9 @@
 
 * Powyższa składnia powinna działać, lecz ze względu na błędy popełnione przy tworzeniu tabel nie jest to możliwe do wykonania, gdyż język my sql nie czyta polskich znaków.
 
+* Eksportowanie pliku na wymagane formaty oraz otwarcie pliku w formacie xml:
+
+![image](https://github.com/PiotrBosek/lab/assets/130838129/87375f3c-f952-4f0d-b39b-06e27cfc38a4)
+
+*
+
