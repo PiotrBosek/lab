@@ -3,7 +3,8 @@
 <img width="761" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/834ebf6f-a52b-406e-b96c-c8bc5ca0748b">
 
 <img width="790" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/29217e68-ecb5-4b41-9929-1ea999b3d275">
-*  Dodanie danych do obydwu tabel:
+
+* Dodanie danych do obydwu tabel:
 <img width="256" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/78013f88-ec3c-49d1-bff1-6537d253d43a">
 
 <img width="341" alt="image" src="https://github.com/PiotrBosek/lab/assets/130838129/8b98290f-d7c3-44e4-a50f-44ecd3d4ce94">
